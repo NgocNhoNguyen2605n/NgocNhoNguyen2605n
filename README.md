@@ -15,11 +15,3 @@
 - 🎓 Computer Science student at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/).
 - 🔭 Passionate about **Natural Language Processing (NLP)** and **Machine Learning**.
 
----
-
-### 📊 Thống kê GitHub
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
-</div>
-
