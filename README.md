@@ -1,13 +1,3 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Header Banner" />
-  
-  <!-- Chữ gõ động hiệu ứng máy tính -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nguyen+Ngoc+Nho!;Computer+Science+Student+at+UIT;NLP+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
 ### 👨‍💻 About Me
 
 - 🎓 Undergraduate Student in Computer Science at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/)
