@@ -1,10 +1,10 @@
 # Nguyễn Ngọc Nhớ
 
-- 🎓 Undergraduate Student in Computer Science at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/)
+- Undergraduate Student in Computer Science at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/)
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 - Natural Language Processing
 - Large Language Models
 
