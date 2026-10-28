@@ -17,9 +17,10 @@
 
 ## Honors
 
-* **1st Place** — HASTIKA 2026 Shared Task: Binary Hate Speech Detection (Task A)
+* **1st Place** — HASTIKA 2026 Shared Task: Binary Hate Speech Detection
 * **2nd Place** — VLSP 2026 Shared Task: Vietnamese Physics Reasoning and Answering (ViPRA)
 * **5th Place** — BAREC 2026 Shared Task: Arabic Readability Assessment
+* **5th Place** — HASTIKA 2026 Shared Task: Fine-Grained Hate Speech Classification
 
 
 ## Contact
