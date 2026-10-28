@@ -1,4 +1,4 @@
-### 👨‍💻 About Me
+### Nguyễn Ngọc Nhớ
 
 - 🎓 Undergraduate Student in Computer Science at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/)
 
