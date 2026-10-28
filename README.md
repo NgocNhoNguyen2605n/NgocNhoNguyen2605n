@@ -17,29 +17,9 @@
 
 ---
 
-### 🛠️ Kỹ năng & Công nghệ
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,docker,postgres,git,github,vscode&perline=6" />
-  </a>
-</p>
-
----
-
 ### 📊 Thống kê GitHub
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
-</div>
-
----
-
-### 🚀 Dự án tiêu biểu
-| Dự án | Công nghệ | Mô tả & Link |
-|---|---|---|
-| **[Tên Dự Án 1](https://github.com/YOUR_USERNAME/repo-1)** | React, Node.js, PostgreSQL | Nền tảng thương mại điện tử tối ưu hiệu năng ([Live Demo](https://demo.com)) |
-| **[Tên Dự Án 2](https://github.com/YOUR_USERNAME/repo-2)** | Python, FastAPI, Docker | API tự động hóa xử lý dữ liệu và gửi thông báo |
