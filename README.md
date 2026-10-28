@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Xin%20chào,%20mình%20là%20Nguyễn%20Ngọc%20Nhớ!&fontSize=42&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Nguyen%20Ngoc%20Nho!&fontSize=42&fontAlignY=50" width="100%"/>
 </div>
 
 ---
