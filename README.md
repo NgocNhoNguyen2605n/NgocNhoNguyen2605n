@@ -10,11 +10,10 @@
 
 ---
 
-### 👨‍💻 Về bản thân
-- 🔭 Hiện tại mình đang làm việc/nghiên cứu về **[Lĩnh vực chính, ví dụ: Backend Development, Cloud Architecture]**.
-- 🌱 Đang học hỏi thêm về **[Công nghệ mới, ví dụ: Go, Kubernetes, System Design]**.
-- 💬 Hãy trao đổi với mình về **[Chủ đề yêu thích, ví dụ: React, Python, Web Performance]**.
-- ⚡ Fun fact: **[Một điều thú vị nhỏ về bạn hoặc sở thích ngoài code]**.
+### 👨‍💻 About Me
+
+- 🎓 Computer Science student at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/).
+- 🔭 Passionate about **Natural Language Processing (NLP)** and **Machine Learning**.
 
 ---
 
