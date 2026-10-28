@@ -3,10 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Xin%20chào,%20mình%20là%20Nguyễn%20Ngọc%20Nhớ!&fontSize=42&fontAlignY=50" width="100%"/>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ng%E1%BB%8Dc-nh%E1%BB%9B-nguy%E1%BB%85n-b86b48386/"></a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
