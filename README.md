@@ -1,8 +1,15 @@
 <!-- HEADER BANNER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Nguyen%20Ngoc%20Nho!&fontSize=42&fontAlignY=50" width="100%"/>
-</div>
-
+<p align="center">
+  <!-- Ảnh Anime Động -->
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/blog-data/chill-anime.gif" width="100%" />
+  
+  <br/><br/>
+  
+  <!-- Chữ gõ động hiệu ứng máy tính -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nguyen+Ngoc+Nho!;Computer+Science+Student+at+UIT;NLP+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 ### 👨‍💻 About Me
