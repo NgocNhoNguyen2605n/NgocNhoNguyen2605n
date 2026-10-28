@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.jpg" width="50%" alt="Header Banner" />
-</p>
-
 # Nguyễn Ngọc Nhớ
 
 
