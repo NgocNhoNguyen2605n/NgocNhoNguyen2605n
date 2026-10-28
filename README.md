@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Undergraduate Student in Computer Science at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/).
+- 🎓 Undergraduate Student in Computer Science at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/)
 
 ---
 
@@ -17,11 +17,11 @@
 
 ## Honors
 
-* **1st Place** — HASTIKA 2026 Shared Task
-* **2nd Place** — VLSP 2026 Shared Task
+* **1st Place** — HASTIKA 2026 Shared Task: Binary Hate Speech Detection (Task A)
+* **2nd Place** — VLSP 2026 Shared Task: Vietnamese Physics Reasoning and Answering (ViPRA)
+* **5th Place** — BAREC 2026 Shared Task: Arabic Readability Assessment
 
 
-* 
 ## Contact
 * Email: [25521339@gm.uit.edu.vn](25521339@gm.uit.edu.vn)
 * Google Scholar: [Link](https://scholar.google.com/citations?user=PjEpxNoAAAAJ&hl=vi&authuser=2)
