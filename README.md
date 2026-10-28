@@ -20,3 +20,18 @@
 - Natural Language Processing
 - Large Language Models
 
+## Honors
+
+* **1st Place** — QIAS 2025 Shared Task: Islamic Knowledge Assessment
+* **2nd Place** — QIAS 2025 Shared Task: Islamic Inheritance Reasoning
+* **3rd Place** — CRAC 2025 Shared Task (EMNLP)
+* **Silver Medal** — National Student Olympiad 2024 (Algebra)
+* **Honorable Mention** — National Student Olympiad 2025 (Algebra & Calculus)
+
+* 
+## Contact
+* My portfolio: https://pux-uit.io.vn/
+* GitHub: https://github.com/PuxHocDL
+* Email: [23521213@gm.uit.edu.vn](23521213@gm.uit.edu.vn)
+* Google Scholar: [Link](https://scholar.google.com/citations?hl=en&user=C1ldBSkAAAAJ)
+* LinkedIn: [Link](https://www.linkedin.com/in/nguyen-xuan-phuc-uit/)
