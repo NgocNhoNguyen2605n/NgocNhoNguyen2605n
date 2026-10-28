@@ -30,4 +30,4 @@
 ## Contact
 * Email: [25521339@gm.uit.edu.vn](25521339@gm.uit.edu.vn)
 * Google Scholar: [Link]([https://scholar.google.com/citations?hl=en&user=C1ldBSkAAAAJ](https://scholar.google.com/citations?user=PjEpxNoAAAAJ&hl=vi&authuser=2))
-* LinkedIn: [Link]([https://www.linkedin.com/in/nguyen-xuan-phuc-uit/](https://www.linkedin.com/in/ng%E1%BB%8Dc-nh%E1%BB%9B-nguy%E1%BB%85n-b86b48386/))
+* LinkedIn: [Link](https://www.linkedin.com/in/ng%E1%BB%8Dc-nh%E1%BB%9B-nguy%E1%BB%85n-b86b48386/)
