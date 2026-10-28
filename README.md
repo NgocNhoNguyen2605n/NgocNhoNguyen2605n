@@ -1,9 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <!-- Ảnh Anime Động -->
-  <img src="https://www.pinterest.com/pin/954059502330605946/" width="100%" />
-  
-  <br/><br/>
+  <img src="./banner.png" width="100%" alt="Header Banner" />
   
   <!-- Chữ gõ động hiệu ứng máy tính -->
   <a href="https://git.io/typing-svg">
