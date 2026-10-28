@@ -12,6 +12,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/).
-- 🔭 Passionate about **Natural Language Processing (NLP)** and **Machine Learning**.
+- 🎓 Undergraduate Student in Computer Science at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/).
+
+---
+
+### 🔬 Research Interests
+- Natural Language Processing
+- Large Language Models
 
