@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <p align="center">
   <!-- Ảnh Anime Động -->
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/blog-data/chill-anime.gif" width="100%" />
+  <img src="https://www.pinterest.com/pin/954059502330605946/" width="100%" />
   
   <br/><br/>
   
@@ -10,7 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nguyen+Ngoc+Nho!;Computer+Science+Student+at+UIT;NLP+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
----
 
 ### 👨‍💻 About Me
 
