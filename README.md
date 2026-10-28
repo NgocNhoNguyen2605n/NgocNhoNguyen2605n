@@ -22,16 +22,12 @@
 
 ## Honors
 
-* **1st Place** — QIAS 2025 Shared Task: Islamic Knowledge Assessment
-* **2nd Place** — QIAS 2025 Shared Task: Islamic Inheritance Reasoning
-* **3rd Place** — CRAC 2025 Shared Task (EMNLP)
-* **Silver Medal** — National Student Olympiad 2024 (Algebra)
-* **Honorable Mention** — National Student Olympiad 2025 (Algebra & Calculus)
+* **1st Place** — HASTIKA 2026 Shared Task
+* **2nd Place** — VLSP 2026 Shared Task
+
 
 * 
 ## Contact
-* My portfolio: https://pux-uit.io.vn/
-* GitHub: https://github.com/PuxHocDL
-* Email: [23521213@gm.uit.edu.vn](23521213@gm.uit.edu.vn)
-* Google Scholar: [Link](https://scholar.google.com/citations?hl=en&user=C1ldBSkAAAAJ)
-* LinkedIn: [Link](https://www.linkedin.com/in/nguyen-xuan-phuc-uit/)
+* Email: [25521339@gm.uit.edu.vn](25521339@gm.uit.edu.vn)
+* Google Scholar: [Link]([https://scholar.google.com/citations?hl=en&user=C1ldBSkAAAAJ](https://scholar.google.com/citations?user=PjEpxNoAAAAJ&hl=vi&authuser=2))
+* LinkedIn: [Link]([https://www.linkedin.com/in/nguyen-xuan-phuc-uit/](https://www.linkedin.com/in/ng%E1%BB%8Dc-nh%E1%BB%9B-nguy%E1%BB%85n-b86b48386/))
