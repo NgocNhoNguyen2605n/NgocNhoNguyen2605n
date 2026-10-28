@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Xin%20chào,%20mình%20là%20Nguyễn%20Ngọc%20Nhớ!&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20|%20Full-stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Xin%20chào,%20mình%20là%20Nguyễn%20Ngọc%20Nhớ!&fontSize=42&fontAlignY=50" width="100%"/>
 </div>
 
 <p align="center">
