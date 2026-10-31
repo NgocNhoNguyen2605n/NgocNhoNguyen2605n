@@ -2,7 +2,7 @@
 
 
 ## About me
-- Undergraduate Student in Computer Science at [University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/)
+- Undergraduate Student in Computer Science at [University of Information Technology (VNU-HCM)](https://www.uit.edu.vn/)
 
 ---
 
